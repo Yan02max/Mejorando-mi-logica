@@ -1,6 +1,3 @@
-import matplotlib as mp
-import random as rd
-
 #==============
 # Crear Cuenta
 #==============
